@@ -34,14 +34,18 @@ To put into practice the concepts about **BI Reports and Dashboards**, I worked 
 
 This project focus on getting insights about job opportunities in the field of data science, as well as salary averages in Europe. It is designed for individuals interested in pursuing work opportunities in the tech field
 
+
+
 ## **2. Minimal Functional App ⚙️**
 
 The visualization allows to take decisions about what skills should be trained for and what countries offers the best for their professional development:
 
 - Bicimad
-- [Daniel the Audience Persona XXXXXX](https://platzi.com/cursos/tableau/) (Desarrollar la idea con mis hallazgos)
+- [Lucía the Audience Persona XXXXXX](https://platzi.com/cursos/tableau/) (Desarrollar la idea con mis hallazgos)
 
-> This b **xxxx.**
+
+
+> This beta version... **xxxx.**
 
 #### How does it work?
 For example: the main xxxxxx:
