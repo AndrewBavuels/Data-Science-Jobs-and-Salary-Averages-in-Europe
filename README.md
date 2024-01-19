@@ -40,6 +40,8 @@ This project focus on getting insights about job opportunities in the field of d
 
 The visualization allows to take decisions about what skills should be trained for and what countries offers the best for their professional development:
 
+![Lucia](https://github.com/AndrewBavuels/ih_datamadpt0923_project_m2/raw/main/images/Lucia_Profile_Persona.png)
+
 - Bicimad
 - [Lucía the Audience Persona XXXXXX](https://platzi.com/cursos/tableau/) (Desarrollar la idea con mis hallazgos)
 
