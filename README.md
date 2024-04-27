@@ -1,4 +1,4 @@
-# **Project Module 2 - Data Science Jobs and Salary Averages in Europe💻🌐💶**
+# **Data Science Jobs and Salary Averages in Europe💻🌐💶**
 
 The main reason why you should review this project is to get an approach about the development of **Business Intelligence (BI)**, which impacts many industries and departments, including finance, marketing, operations, and human resources.
 
@@ -7,8 +7,6 @@ The main reason why you should review this project is to get an approach about t
 > *"Something that personally I want to include: Call-To-Actions or CTAs".*
 
 ## 1. Project description 👇
-> Project Module 2 - Part time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics)
-
 To put into practice the concepts about **BI Reports and Dashboards**, I worked on a dataset found in [**Kaggle**](https://www.kaggle.com/) related to my career development: [**Data Science**](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data/data).
 
  **The main challenge** was to build a BI Report/Dashboard from the topic I chose for this project, that focus on getting insights about **job opportunities in the field of data science, as well as salary averages in Europe**. It is designed for individuals interested in pursuing work opportunities in the tech field.
